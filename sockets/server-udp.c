@@ -19,7 +19,7 @@
 
 int main(int argc, char ** argv)
 {
-        char* server_port = "1234";
+        char* server_port = "4321";
         int sockfd, rc;
         int yes=1;
         struct addrinfo hints, *server;
